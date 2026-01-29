@@ -2,6 +2,7 @@
 Resume made with simple html
 
 ## Preview
+<img width="2048" height="2368" alt="html-resume-adash-malviya vercel app_" src="https://github.com/user-attachments/assets/d645d7bb-f568-4586-979b-8b8409d19160" />
 
 
 ## Live Demo
